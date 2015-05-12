@@ -1,0 +1,6 @@
+alias dokku='$HOME/.dokku/contrib/dokku_client.sh'
+export PATH="$HOME/.bin:$PATH"
+eval "$(rbenv init - zsh --no-rehash)"
+
+export GITHUB_USER=REDACTED
+export GITHUB_PASSWORD=REDACTED
